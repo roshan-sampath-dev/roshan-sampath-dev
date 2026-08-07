@@ -15,11 +15,11 @@
 <a href="https://github.com/Roshan-The-Data-Analyst">
   <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" />
 </a>
-<a href="https://linkedin.com/in/roshan-hk-a61333428/">
-  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" />
+<a href="https://linkedin.com/in/roshan-sampath-a61333428/">
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=0D1117" />
 </a>
 <a href="mailto:roshanhk867@gmail.com">
-  <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=red&labelColor=0D1117" />
 </a>
 
 </div>
