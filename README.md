@@ -30,12 +30,12 @@
 
 I'm a **Data Analyst** who loves cleaning messy data, uncovering hidden patterns, and turning raw numbers into dashboards that people actually use to make decisions.
 
-```yaml
-role: Data Analyst
-background: Data Analytics + Graphic Design + F&B Operations
-mission: Turn messy spreadsheets into clear, confident decisions
-currently: Open to Data Analyst roles (Colombo & Remote)
-fun_fact: I get genuinely excited about a well-built pivot table 📊
+```
+Role: Data Analyst
+Background: Data Analytics + Graphic Design + F&B Operations
+Mission: Turn messy spreadsheets into clear, confident decisions
+Currently: Open to Data Analyst roles (Colombo & Remote)
+Fun_fact: I get genuinely excited about a well-built pivot table 📊
 ```
 
 - 📊 Excel, SQL, Power BI & Tableau are my daily tools
@@ -97,6 +97,19 @@ In short: **I turn "we have a lot of data" into "here's what to do about it."**
 | **BrightHome Retail** | SQL, Python, Power BI | 2,500-row US retail dataset with full SQL queries, Python analysis, and Power BI reporting |
 
 ---
+## Dashboard Preview
+
+<img width="577" height="326" alt="dashboard 01" src="https://github.com/user-attachments/assets/3ead982a-799f-4457-b2c9-9c6eb066b054" />
+
+
+This Power BI dashboard summarizes **$1.067M in total sales** and **$198.75K in profit** (18.63% margin) across four US regions. It breaks down performance by region, category, and individual product — Furniture leads both sales and profit, while the product-level waterfall highlights top and bottom performers.
+
+## Dashboard Preview
+
+<img width="477" height="296" alt="dashboard" src="https://github.com/user-attachments/assets/94c65930-e9f5-483e-af74-265581d3fa8a" />
+
+
+Built entirely in Excel, this interactive dashboard tracks **$4.6M in net sales** across 15,150 orders spanning Sri Lanka, UAE, and Oman. Slicers allow filtering by country, category, payment method, and customer type, with visuals for revenue by country, monthly sales trend, and average order value.
 
 ## 📈 Activity
 
