@@ -111,6 +111,11 @@ This Power BI dashboard summarizes **$1.067M in total sales** and **$198.75K in 
 
 Built entirely in Excel, this interactive dashboard tracks **$4.6M in net sales** across 15,150 orders spanning Sri Lanka, UAE, and Oman. Slicers allow filtering by country, category, payment method, and customer type, with visuals for revenue by country, monthly sales trend, and average order value.
 
+
+## Dashboard Preview
+<img width="575" height="335" alt="dashboard 1 main" src="https://github.com/user-attachments/assets/c7b72379-6526-447b-8d0e-7f910cf5fa7b" />
+Oman Bites is a simulated restaurant chain dataset built for intermediate-level data analytics practice. It contains 3,045 rows of transactional data spanning six branches across Oman, designed to mirror the kind of operational data a real F&B business would generate — sales, orders, branch performance, and product-level detail.
+
 ## 📈 Activity
 
 <div align="center">
